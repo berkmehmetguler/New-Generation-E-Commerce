@@ -1,7 +1,5 @@
 # This is my responsive E-Commerce React Project.
 
-## [You can see here](https://buynowreact.netlify.app)
-
 ## What's in this project ?
 ### Adding and removing products from the shopping cart.
 ### You can order product.
